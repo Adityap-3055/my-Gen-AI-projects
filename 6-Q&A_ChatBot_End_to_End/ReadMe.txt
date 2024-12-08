@@ -1,3 +1,2 @@
 [Try the app](https://question-and-answer-chatbot.streamlit.app/)
-!<img width="959" alt="Picture" src="https://github.com/user-attachments/assets/2fd86258-af80-4e3f-904b-648b071b1e1b">
-
+<img width="959" alt="Picture" src="https://github.com/user-attachments/assets/54eefb0c-1bde-4c2d-9e84-b77f93432f96">
