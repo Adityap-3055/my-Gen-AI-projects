@@ -1,0 +1,10 @@
+# Ignore environment file
+*.env
+
+# Ignore specific text files
+STEPS.txt
+Notes.txt
+
+
+# Ignore virtual environment folder
+venv/
